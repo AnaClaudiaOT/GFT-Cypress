@@ -1,0 +1,8 @@
+{
+  "baseUrl": "http://agapito-server.herokuapp.com/",
+  "testFiles": [
+    "TC01-post-usuario.spec.js",
+    "TC02-put-usuario.spec.js"
+  ],
+  "projectId": "1yevnu"
+}

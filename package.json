@@ -1,0 +1,16 @@
+{
+  "name": "gft-cypress",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "cypress open --browser edge",
+    "comando": "cypress run --record --key b0ee5f67-959d-4af9-947c-14d84ce77e1b"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^6.0.1"
+  }
+}
